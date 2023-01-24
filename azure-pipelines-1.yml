@@ -29,5 +29,5 @@ steps:
     containerRegistry: 'mydocker'
     repository: 'vikashsingh / azuredevops1'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: '**/AzureDockerfile'
 
